@@ -1,0 +1,180 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+
+}
+/* nav: debut */
+nav{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+   
+}
+.menu-link{
+    display: flex;
+ 
+}
+.menu{
+    margin-left: 25px;
+    
+}
+.logo_kim{
+    margin-left: 500px;
+}
+.hif-logo{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    margin-left: 250px;
+}
+.menu:hover{
+    transition: 1.5s , ease-in-out;
+    color: #f800f8;
+
+}
+.down{
+    margin-left: 5px;
+}
+.icone-reseaux i{
+    font-size: 20px;
+    margin-top: 25px;
+    
+}
+.icone-reseaux{
+    margin-right: 100px;
+    margin-top: 50px;
+}
+.text-part1{
+   
+    
+}
+.scroll{
+    margin-top: 70px;
+}
+.scroll:hover{
+    transition: 0.3s ease-in-out;
+    color: rgb(83, 83, 228);
+   
+}
+.btn-contact:hover{
+    transition: 0.3s ease-in-out;
+    background: rgb(128, 0, 100);
+}
+.mouse{
+    margin-right: 5px;
+}
+.moon{
+    margin-left: 15px;
+}
+.text-column{
+    flex-wrap: wrap;
+  
+}
+.level{
+    margin-bottom: 45px;
+    font-size: 20px;
+    color: rgb(170, 169, 169);
+}
+.Hi{
+    font-size: 50px;
+    margin-bottom: 5px;
+}
+.Front{
+    margin-bottom: 15px;
+}
+.btn-contact{
+    border: none;
+    height: 65px;
+    width: 150px;
+    color: white;
+    background-color: violet;
+    border-radius: 5%;
+    font-size: 20PX;
+}
+/* nav:fin */
+/* header */
+header{
+    border-top: 500px;
+}
+.header-display{
+    margin-left: 200px;
+    display: flex;
+    margin-top: 100px; 
+}
+.icone-reseaux{
+    flex-direction: column;
+    display:flex ;
+}
+/* fin du header */
+main{
+    margin-top: 100px;
+}
+.About{
+    font-size: 40px;
+}
+.main{
+    margin-left: 300px;
+    margin-right: 200px;
+    margin-bottom: 90px;
+    
+}
+.text-up{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.text-up p{
+    color: rgb(134, 131, 131);;;
+}
+.down1{
+    display: flex;
+    
+    
+}
+.down1 p{
+    color: rgb(134, 131, 131);;
+}
+.down1 img{
+    height: 290px;
+    width: 450px;
+    object-fit: cover;
+    margin-right: 10px;
+    border-radius: 2%;
+}
+.intro-text{
+    margin-left: 35px;
+}
+.intro-textin{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.box-1{
+    margin-top: 30px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+.experiences-year{
+    display: flex;
+    justify-content: space-between;
+}
+.experiences-year p{
+  
+}
+.down-cv{
+    height: 50px;
+    width: 150px;
+    background:blueviolet;
+    border: none;
+    color: white;
+    border-radius: 10%;
+}
+.section2{
+    
+   
+    margin-right: 200px;
+    margin-left: 295px;
+}
+.skills{
+    text-align: center;
+}
